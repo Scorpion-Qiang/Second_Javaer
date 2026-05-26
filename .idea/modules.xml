@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary_search/binary_search.iml" filepath="$PROJECT_DIR$/binary_search/binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_structure/data_structure.iml" filepath="$PROJECT_DIR$/data_structure/data_structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisit-leetcode/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/revisit-leetcode/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/second_javaer.iml" filepath="$PROJECT_DIR$/.idea/second_javaer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisit-leetcode/test/test.iml" filepath="$PROJECT_DIR$/revisit-leetcode/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisit-leetcode/test_two/test_two.iml" filepath="$PROJECT_DIR$/revisit-leetcode/test_two/test_two.iml" />
+    </modules>
+  </component>
+</project>

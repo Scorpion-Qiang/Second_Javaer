@@ -5673,20 +5673,9 @@ public class Main {
         return cnt;
     }
 
-    /**
-     * @Author 强仔不强
-     * @Description 1466. 重新规划路线
-     * @Date 22:10 2026/5/13
-     * @Param [n, connections]
-     * @return int
-     **/
-    public int minReorder(int n, int[][] connections) {
-
-    }
-    
 
     public static void main(String[] args) {
-        
+        System.out.println("hello, world!");
     }
 
 }
